@@ -1,6 +1,7 @@
 Git Overview
 ---
 1. Create a git repository
+by using the terminal:
 2. Add the following files to the repository. Files content should be ”TBD”:
   js/script.js
   css/style.css
